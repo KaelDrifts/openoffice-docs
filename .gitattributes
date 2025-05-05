@@ -8,6 +8,7 @@
 *.bmp binary
 *.gif binary
 *.jpg binary
+//dosent work nifg
 *.jpeg binary
 *.png binary
 *.suo binary
